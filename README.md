@@ -1,7 +1,7 @@
-# FlightCorridor
+# Flight Corridor
 Flight Corridor for Online Maps Plugin for Unity
 
-Upon request 
+Get informations upon request 
 
 The input can be any polyline from a minimum of 2 to N (as many as I the user wants)
 
