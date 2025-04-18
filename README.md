@@ -7,4 +7,4 @@ The input can be any polyline from a minimum of 2 to N (as many as I the user wa
 
 On 2 polylines draw parallel lines to display the corridor with the same distance in Nautical Miles or KM left and right foom the main line.
 
-![Alt Text](https://github.com/RichardHoffmannX/FlightCorridor/blob/main/FlightCorridor.gif)(FlightCorridor.gif)
+![Alt Text](https://github.com/RichardHoffmannX/FlightCorridor/blob/main/FlightCorridor.gif)
